@@ -5,8 +5,8 @@ I am a student who likes to explore different areas of programming. My main focu
 <a id="about-me"></a>
 ## 🧐 About Me:
 - 📚 I’m currently studying on [**Alura**](https://www.alura.com.br/) and [**DIO**](https://www.dio.me/).
-- ⚡ Fun fact: No suggar coffee ☕️.
 - 📝 Very interested in Architecture, Authentication and Routes.
+- ⚡ Fun fact: No suggar coffee ☕️.
 
 <a id="language-and-tools"></a>
 ## 🔨 Languages and Tools
