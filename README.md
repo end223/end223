@@ -13,8 +13,8 @@ I am a student who likes to explore different areas of programming. My main focu
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node.js" height="43" width="53" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">(https://nodejs.org/)
-  <img align="center" alt="Vue.js" height="43" width="53" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Node.js" height="43" width="53" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
+  <img align="center" alt="Vue.js" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="MongoDB" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
 </div>
 
