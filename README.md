@@ -5,7 +5,7 @@ I am a student who likes to explore different areas of programming. My main focu
 <a id="about-me"></a>
 ## 🧐 About Me:
 - 📚 I’m currently studying on [**Alura**](https://www.alura.com.br/).
-- 📝 Very interested in Architecture, Authentication and Routes.
+- 📝 Very Interested in BackEnd Development..
 - ⚡ Fun fact: No suggar coffee ☕️.
 
 <a id="language-and-tools"></a>
