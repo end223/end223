@@ -6,19 +6,19 @@ I am a enthusiastic student who likes to learn how everything works on backend.
 
 <a id="about-me"></a>
 ## 🧐 About Me:
-- 📚 I’m currently studying on <img height="12" width="12" src="https://github.com/end223/svgs/blob/main/rounded-in-photoretrica.png?raw=true"> [**Alura**](https://www.alura.com.br/).
+- 📚 I’m currently studying on <img height="12" width="12" src="https://i.ibb.co/9VWYSqw/rounded-in-photoretrica.png"> [**Alura**](https://www.alura.com.br/).
 - 📝 Very Interested in BackEnd Development.
 - ⚡ Fun fact: No suggar coffee ☕️.
 
 <a id="Vitrine.dev"></a>
 ## 🌌 My Vitrine.dev
 
-[![Vitrine.dev](https://github.com/end223/svgs/blob/main/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png?raw=true)](https://cursos.alura.com.br/vitrinedev/end223)
+[![Vitrine.dev](https://i.ibb.co/HnX32mz/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png)](https://cursos.alura.com.br/vitrinedev/end223)
 
 <a id="Technologies"></a>
 ## 🔨 Technologies
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tech" width="500" src="https://github.com/end223/svgs/blob/main/ok.png?raw=true">
+  <img align="center" alt="Tech" width="500" src="https://i.ibb.co/Cm4vxWL/ok.png">
 
 </div>
 
