@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52C800&width=435&lines=Backend+Developer.)](https://git.io/typing-svg)
 
-I am a student who likes to explore different areas of programming. My main focus is on the backend.
+I am a enthusiastic student who likes to learn how everything works on backend.
 
 <a id="about-me"></a>
 ## 🧐 About Me:
