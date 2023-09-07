@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Carlos!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52C800&width=435&lines=Backend+Developer.)](https://git.io/typing-svg)
+
 I am a student who likes to explore different areas of programming. My main focus is on the backend.
 
 <a id="about-me"></a>
@@ -8,13 +10,17 @@ I am a student who likes to explore different areas of programming. My main focu
 - 📝 Very Interested in BackEnd Development..
 - ⚡ Fun fact: No suggar coffee ☕️.
 
-<a id="language-and-tools"></a>
-## 🔨 Languages and Tools
+<a id="Vitrine.dev"></a>
+## 🌌 My Vitrine.dev
+
+[![Vitrine.dev](https://github.com/end223/svgs/blob/main/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png?raw=true)](https://cursos.alura.com.br/vitrinedev/end223)
+
+
+<a id="Technologies"></a>
+## 🔨 Technologies
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node.js" height="43" width="53" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
-  <img align="center" alt="Vue.js" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="MongoDB" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Tech" width="500" src="https://github.com/end223/svgs/blob/main/ok.png?raw=true">
+
 </div>
 
 <a id="github-stats"></a>
