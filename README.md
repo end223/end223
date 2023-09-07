@@ -6,15 +6,14 @@ I am a student who likes to explore different areas of programming. My main focu
 
 <a id="about-me"></a>
 ## 🧐 About Me:
-- 📚 I’m currently studying on [**Alura**](https://www.alura.com.br/).
-- 📝 Very Interested in BackEnd Development..
+- 📚 I’m currently studying on <img height="12" width="12" src="https://github.com/end223/svgs/blob/main/rounded-in-photoretrica.png?raw=true"> [**Alura**](https://www.alura.com.br/).
+- 📝 Very Interested in BackEnd Development.
 - ⚡ Fun fact: No suggar coffee ☕️.
 
 <a id="Vitrine.dev"></a>
 ## 🌌 My Vitrine.dev
 
 [![Vitrine.dev](https://github.com/end223/svgs/blob/main/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png?raw=true)](https://cursos.alura.com.br/vitrinedev/end223)
-
 
 <a id="Technologies"></a>
 ## 🔨 Technologies
