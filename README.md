@@ -27,5 +27,4 @@ I am a enthusiastic student who likes to learn how everything works on backend.
 <a id="github-stats"></a>
 
 ## 📊 Github Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=end223&theme=merko) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=end223&theme=merko" height="196">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=end223&theme=merko" height="196">
