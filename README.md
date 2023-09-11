@@ -1,5 +1,3 @@
-
-
 ### Hey 👋, I'm Carlos!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52C800&width=435&lines=Backend+Developer.)](https://git.io/typing-svg)
