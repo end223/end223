@@ -6,6 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-Zhou-FF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cutegothvampire)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Beyond%20the%20Beyond&author=Zhou&text_color=FF0000)
 
 </div>
 
@@ -67,25 +68,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=end223&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
-</div>
-
----
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Beyond%20the%20Beyond&author=Zhou&text_color=FF0000)
-
-</div>
-
----
-
 
 
 <div align="center">
