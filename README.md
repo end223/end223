@@ -78,8 +78,6 @@
 
 ---
 
-## 💭 Dev Quote
-
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Beyond%20the%20Beyond&author=Zhou&text_color=FF0000)
