@@ -88,17 +88,21 @@
 
 ---
 
-## 🎵 Coding Soundtrack
+
 
 <div align="center">
+
+## ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• Coding
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312oln6sjkdt6dls2wkxxvl3nlxu&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=false&profanity=true&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
-### 🎧 Peak
-
 <div align="center">
+  
+### ⸝⸝ ⸝⸝ 𝗣𝗲𝗮𝗸  ⸝⸝ ⸝⸝
+
+
   <table>
     <tr>
       <td align="center" width="50%">
