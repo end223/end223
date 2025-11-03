@@ -80,32 +80,8 @@
 
 <div align="center">
   
-### ⸝⸝ ⸝⸝ 𝗣𝗲𝗮𝗸  ⸝⸝ ⸝⸝
+### ⸝⸝ ⸝⸝   ⸝⸝ ⸝⸝
 
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://open.spotify.com/intl-pt/track/0jtoEsi7ANy3z7bS2l1EuW?si=b153e317eac34e23">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=300&lines=Beyond+the+Beyond" alt="Track Title" />
-        </a>
-        <br><br>
-        <a href="https://open.spotify.com/intl-pt/track/0jtoEsi7ANy3z7bS2l1EuW?si=b153e317eac34e23">
-          <img src="https://i.scdn.co/image/ab67616d00001e02c55d34ae350a6aec5652473f" alt="Beyond the Beyond" width="70%"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://open.spotify.com/intl-pt/track/2I4Z2R9HguQLy5fUsaTc76?si=3dc4ec678f7f42c3">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=300&lines=%EB%B3%B5%ED%95%A9%EC%84%B1+%28Complexity%29" />
-        </a>
-        <br><br>
-        <a href="https://open.spotify.com/intl-pt/track/2I4Z2R9HguQLy5fUsaTc76?si=3dc4ec678f7f42c3">
-          <img src="https://i.scdn.co/image/ab67616d00001e0202d520c0cd2e19c2429430e4" alt="복합성 (Complexity)" width="75%"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
 
